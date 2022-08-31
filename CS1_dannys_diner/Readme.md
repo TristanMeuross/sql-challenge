@@ -13,4 +13,4 @@ There are three tables in this database:
 - menu
 - members
 
-![Entity Relationship Diagram](CS1_dannys_diner/images/dd_database_structure.png)
+![Entity Relationship Diagram](/CS1_dannys_diner/images/dd_database_structure.png)
